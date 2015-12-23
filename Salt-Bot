@@ -38,15 +38,15 @@ true      = 1                   # Boolean True
 ##     ## ##     ##    ##             ##  ##   ### ##       ##     ## 
 ########   #######     ##            #### ##    ## ##        #######  
 # ==------------------------------------------------------------------------------------==
-botnick    = "SaltFTWin"
+botnick    = "Test"
 bufsize    = 2048
-channel    = "#xenfor"
+channel    = "#test"
 port       = 443
 server     = "192.16.64.144"
-master     = "Xenfor"
-password   = "oauth:iihhc4fm498b0erlr1qezvbfbmw0e1"
-uname      = "saltftwin"
-realname   = "saltftwin"
+master     = "test"
+password   = "test"
+uname      = "test"
+realname   = "test"
 # ==------------------------------------------------------------------------------------==
 ########  ######## ########  ##       #### ########  ######  
 ##     ## ##       ##     ## ##        ##  ##       ##    ## 
